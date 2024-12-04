@@ -2,11 +2,8 @@
 Professional Power Bi Dashboard
 
 Complete Power BI project using retail store sales data 
+
  Madhav Store Sales Dashboard
-
-
-Madhav Store dashboard.jpg
-
 
 
 
