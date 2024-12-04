@@ -86,7 +86,7 @@ Visualization:
 
 3. Payment Preferences: COD remains the most popular payment mode (44%).
 
-Seasonal Performance: December shows the highest profit, while mid-year months like June and July indicate losses.
+4. Seasonal Performance: December shows the highest profit, while mid-year months like June and July indicate losses.
 
-Customer Impact: High-value customers (e.g., Harivansh and Madhav) contribute significantly to overall revenue.
+5. Customer Impact: High-value customers (e.g., Harivansh and Madhav) contribute significantly to overall revenue.
 
