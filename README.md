@@ -5,7 +5,7 @@ Complete Power BI project using retail store sales data
  Madhav Store Sales Dashboard
 
 
-![Uploading Madhav Store dashboard.jpg…]()
+
 
 
 
