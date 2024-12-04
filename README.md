@@ -47,37 +47,44 @@ Visualization:
 2. Included visual elements like bar charts, pie charts, and line graphs for better readability.
 
 
+
 🛠️ Tools and Technologies
 
-Power BI: For building the interactive dashboard.
 
-Microsoft Excel: Used for pre-processing and cleaning data.
+1. Power BI: For building the interactive dashboard.
 
-CSV Files: Data source for the dashboard.
+2. Microsoft Excel: Used for pre-processing and cleaning data.
+
+3. CSV Files: Data source for the dashboard.
+
+
 
 
 📊 Key Metrics Displayed
 
-Sales KPIs: Total Sales, Profit, Quantity Sold, Average Order Value.
 
-Geographical Analysis: Top-performing states based on sales.
+1. Sales KPIs: Total Sales, Profit, Quantity Sold, Average Order Value.
 
-Customer Insights: Identification of high-value customers.
+2. Geographical Analysis: Top-performing states based on sales.
 
-Category Breakdown: Quantity and sales percentage by category and sub-category.
+3. Customer Insights: Identification of high-value customers.
 
-Payment Insights: Preferred payment modes (COD, UPI, etc.).
+4. Category Breakdown: Quantity and sales percentage by category and sub-category.
 
-Profitability: Month-wise profit and loss trends.
+5. Payment Insights: Preferred payment modes (COD, UPI, etc.).
+
+6. Profitability: Month-wise profit and loss trends.
+
 
 
 🚀 Results and Insights
 
-Revenue Leaders: Maharashtra and Madhya Pradesh are the top-performing states.
 
-Category Trends: Clothing contributes 62.62% of total quantity sold, followed by Electronics (20.55%).
+1. Revenue Leaders: Maharashtra and Madhya Pradesh are the top-performing states.
 
-Payment Preferences: COD remains the most popular payment mode (44%).
+2. Category Trends: Clothing contributes 62.62% of total quantity sold, followed by Electronics (20.55%).
+
+3. Payment Preferences: COD remains the most popular payment mode (44%).
 
 Seasonal Performance: December shows the highest profit, while mid-year months like June and July indicate losses.
 
