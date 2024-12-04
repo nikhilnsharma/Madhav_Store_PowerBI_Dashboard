@@ -11,14 +11,19 @@ The Madhav Store Sales Dashboard is a comprehensive visualization of an e-commer
 🎯 Key Features
 
 Sales Overview: Displays total sales, profit, quantity sold, and average order value (AOV).
+
 Top Performers:
-States with the highest sales.
-Top customers contributing to the revenue.
+1. States with the highest sales.
+2. Top customers contributing to the revenue.
+
 Category Insights:
-Sales distribution across product categories such as Electronics, Furniture, and Clothing.
-Profit analysis for sub-categories like Printers, Accessories, and Tables.
-Payment Mode Analysis: Breakdown of sales by payment methods (COD, UPI, Credit/Debit Cards, EMI).
-Seasonal Trends: Month-wise profit and loss analysis for better forecasting.
+
+1.Sales distribution across product categories such as Electronics, Furniture, and Clothing.
+
+2. Profit analysis for sub-categories like Printers, Accessories, and Tables.
+3. Payment Mode Analysis: Breakdown of sales by payment methods (COD, UPI, Credit/Debit Cards, EMI).
+4. Seasonal Trends: Month-wise profit and loss analysis for better forecasting.
+
 🗂️ Project Workflow
 
 Data Collection:
