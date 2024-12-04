@@ -5,6 +5,9 @@ Complete Power BI project using retail store sales data
  Madhav Store Sales Dashboard
 
 
+dashboard.jpg
+
+
 📖 Project Description
 
 The Madhav Store Sales Dashboard is a comprehensive visualization of an e-commerce store's sales performance. Built using Power BI, the dashboard provides insights into sales, profits, customer behavior, and product performance to help stakeholders make data-driven decisions.
